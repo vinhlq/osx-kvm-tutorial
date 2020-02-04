@@ -1,0 +1,6 @@
+[submodule "OSX-KVM"]
+	path = OSX-KVM
+	url = https://github.com/kholia/OSX-KVM.git
+[submodule "qemu-osx-catalina"]
+	path = qemu-osx-catalina
+	url = https://github.com/vinhlq/qemu-osx-catalina.git
